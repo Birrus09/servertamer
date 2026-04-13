@@ -1,0 +1,4 @@
+name            lvl  xp    xp_tresh    hp    hp_tresh   mana   stats                        gen_vec         moves        base(name)      status
+cerbiattone     5    100   180         120   130        5      150 150 150 150 150 150      1 1 1 1 1 1     1 2 3 0 -1    mr_cerbiatto    supercool end
+cerbiattone2    5    100   180         120   130        5      150 150 150 150 150 150      1 1 1 1 1 1     1 2 3 0 -1    mr_cerbiatto    supercool end
+cerbiattone3    5    100   180         120   130        5      150 150 150 150 150 150      1 1 1 1 1 1     1 2 3 0 -1    mr_cerbiatto    supercool end
