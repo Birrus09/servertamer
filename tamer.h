@@ -3,7 +3,7 @@
 #include <cmath>
 #include <iostream>
 #include <fstream>
-#include "../randomcust.h"
+#include "randomcust.h"
 
 #define maxspd 750
 #define maxstats 300
