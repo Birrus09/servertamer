@@ -1,0 +1,21 @@
+name               pow  acc     phy/mag/stat/heal <status>              targets
+atk_base            45  100      1 0 0 0 end                             
+rock_punch          60  100      1 0 0 0 end 
+magic_dart          50  100      0 1 0 0 end   
+healing_move        35  100      1 1 0 1 end 
+mega_punch          75  80       1 0 0 1 end 
+mixed_shenanigan    25  75       1 1 0 0 end 
+what?               0   100      0 0 0 0 end 
+piscoraggio         120 50       0 1 1 0 conf end 
+wax_on              0   100      1 0 1 0 wax end 
+wax_off             0   100      0 1 1 0 rmwax end 
+stonecutter_slash   80  70       1 0 1 0 rage end
+charge              75  80       1 0 0 0 end 
+sharpen             5   100      1 0 1 1 sharpened end 
+bulk_up             0   100      1 0 0 0 bulked end 
+devastating_blow    140 75       1 0 1 0 end 
+sharp_pike          60  95       1 0 0 0 end 
+bite                65  100      1 0 1 0 bleeding end 
+tendrils_of_agony   25  100      1 1 1 0 tendrils end 
+mindcast            80  85       0 1 0 1 end 
+thunderbolt         160 35       0 1 1 0 paralyzed end 
