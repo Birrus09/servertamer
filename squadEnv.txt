@@ -1,0 +1,4 @@
+name            lvl  xp    xp_tresh    hp    hp_max   mana   stats                        gen_vec         moves        base(name)      status
+mr_cerbiatto_instance 1 0 100 91 91 5 101 94 105 90 107 160 1.01 0.94 1.06 0.9 1.07 0.91 0 -1 mr_cerbiatto end
+fleshgorger_instance 1 0 100 127 127 5 123 81 60 106 118 100 0.99 1.09 1.01 0.97 1.08 1.06 0 -1 fleshgorger end
+crosslight_instance 1 0 100 168 168 5 141 80 113 121 70 106 1.01 1 1.03 1.01 0.94 1.05 0 -1 crosslight end
