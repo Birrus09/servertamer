@@ -1,0 +1,11 @@
+name            atk  def  matk mdef spd hp      grt     mvs_lrn_lvl             mvs_index               ev_ptr      ev_lvl
+mr_cerbiatto    100  100  100  100  100 100     1.7     1 3 7 11 15 -1          0 3 11 13 16 -1         nullptr     -1
+fleshgorger     125  75   60   110  110 120     1.5     1 4 6 10 15 -1          0 11 16 13 -1           nullptr     -1 
+crosslight      140  80   110  120  75  160     1.1     1 3 8 9 16 21 -1        0 12 15 16 18 9 -1      nullptr     -1
+floater         35   125  155  160  65  145     1.2     1 3 4 5 14 17 21 26 -1  0 2 3 8 7 17 18 19 -1   nullptr     -1
+rockpile        75   110  60   125  80  115     1.6     1 -1                    0 -1                    nullptr     -1
+sheep           80   125  60   110  95  110     1.7     1 -1                    0 -1                    nullptr     -1
+spiddy          110  55   115  20   125 65      1.9     1 -1                    0 -1                    nullptr     -1
+spuddo          125  95   145  95   120 130     1.3     1 -1                    0 -1                    nullptr     -1
+fishbot         130  170  0    30   60  120     0.1     1 -1                    0 -1                    nullptr     -1
+nailnut         135  85  50    90    85  80     1.5     1 -1                    0 -1                    nullptr     -1
